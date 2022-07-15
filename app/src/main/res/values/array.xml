@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="my_array">
+        <item>율전동</item>
+        <item>천천동</item>
+    </string-array>
+</resources>
